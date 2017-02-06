@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestGluonMobile.iml" filepath="$PROJECT_DIR$/.idea/modules/TestGluonMobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestGluonMobile_android.iml" filepath="$PROJECT_DIR$/.idea/modules/TestGluonMobile_android.iml" group="TestGluonMobile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestGluonMobile_desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/TestGluonMobile_desktop.iml" group="TestGluonMobile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestGluonMobile_embedded.iml" filepath="$PROJECT_DIR$/.idea/modules/TestGluonMobile_embedded.iml" group="TestGluonMobile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestGluonMobile_ios.iml" filepath="$PROJECT_DIR$/.idea/modules/TestGluonMobile_ios.iml" group="TestGluonMobile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestGluonMobile_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TestGluonMobile_main.iml" group="TestGluonMobile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestGluonMobile_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TestGluonMobile_test.iml" group="TestGluonMobile" />
+    </modules>
+  </component>
+</project>
