@@ -13,6 +13,8 @@ public class BasicView extends View {
 
     public BasicView(String name) {
         super(name);
+
+        getStylesheets().add(getClass().getResource("/style.css").toExternalForm());
         
         Label label = new Label("Hello 中文!");
 
